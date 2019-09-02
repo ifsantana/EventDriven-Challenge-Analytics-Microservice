@@ -1,4 +1,4 @@
-package com.eventdrive.challenge.analytics.repositories.cache;
+package com.eventdrive.challenge.analytics.repositories.queries;
 
 import com.eventdrive.challenge.analytics.domain.entities.Event;
 import org.apache.ignite.springdata20.repository.IgniteRepository;
